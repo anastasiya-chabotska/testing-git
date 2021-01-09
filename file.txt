@@ -4,3 +4,6 @@ trying to commit to feature branch
 commiting to branch 2
 
 added changes
+
+
+some more changes made on branch 2
